@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Oleksander 👋
 
-<!--
-**wendrik2/wendrik2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Developer based in Praha 🇨🇿
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Backend:** Java, Spring Boot, REST API, JPA
+- **Frontend:** HTML, CSS, JavaScript
+- **Database:** SQL, H2
+- **Tools:** Git, GitHub, Docker (basics), IntelliJ IDEA, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- [Reality Manager](https://github.com/wendrik2/reality-manager) — Web app for real estate management (Java, Spring Boot, REST API)
+- [Athletic Trainer Website](https://github.com/wendrik2/athletic-trainer-website) — Personal trainer website with UA/CZ/EN switcher (HTML, CSS, JS)
+- [Todo App](https://github.com/wendrik2/todo-app) — Todo application with localStorage (Vanilla JS)
+
+## 🌍 Languages
+- 🇺🇦 Ukrainian — native
+- 🇨🇿 Czech — communicative
+- 🇷🇺 Russian — fluent
+- 🇬🇧 English — basic
+
+## 📫 Contact
+- Email: sawaromanenko2004@gmail.com
